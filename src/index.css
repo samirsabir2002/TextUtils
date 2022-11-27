@@ -1,0 +1,7 @@
+ .accordion-button::after {
+   filter: invert(1) !important;
+ }
+
+ .accordion-button:focus {
+   box-shadow: none;
+ }
